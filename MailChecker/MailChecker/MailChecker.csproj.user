@@ -4,6 +4,6 @@
     <StartArguments>chuck.algtest@gmail.com contra1! brb</StartArguments>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
-    <StartArguments>chuck.algtest@gmail.com contra1! brb</StartArguments>
+    <StartArguments>chuck.algtest@gmail.com contra1!</StartArguments>
   </PropertyGroup>
 </Project>

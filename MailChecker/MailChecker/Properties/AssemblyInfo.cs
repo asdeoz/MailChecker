@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general sobre un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos atributos para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("MailChecker")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Mail Checker")]
+[assembly: AssemblyDescription("Check your e-mail from command line")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MailChecker")]
+[assembly: AssemblyCompany("Lucky Seven Corp.")]
+[assembly: AssemblyProduct("Mail Checker")]
 [assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
